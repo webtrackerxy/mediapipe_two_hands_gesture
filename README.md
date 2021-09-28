@@ -9,7 +9,7 @@ Plese see these [instructions](https://google.github.io/mediapipe/getting_starte
 
 Hand tracking and Gesture recognition:
 
-1. [Mediapipe Hand tracking Solution](https://google.github.io/amediapipe/solutions/hands.html)
+1. [Mediapipe Hand tracking Solution](https://google.github.io/mediapipe/solutions/hands.html)
 
 2. [Simple Hand Gesture Recognition Code](https://gist.github.com/TheJLifeX/74958cc59db477a91837244ff598ef4a)
 

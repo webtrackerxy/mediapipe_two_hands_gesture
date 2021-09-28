@@ -1,6 +1,6 @@
 Android Demo for two hands gesture recognition with Mediapipe SDK 
 
-It is found that Mediapipe provides a very powerful SDK for developing application with motion tracking. This demo only works with hand detection and tracking. By processing the landmarks which is outputs from the mediapipe hand tracking pipeline, it is possbile to work on gesture recongntion for either left or right hand, also both hands together. 
+It is found that MediaPipe provides a very powerful SDK for developing application with motion tracking. This demo only works with hand detection and tracking. By processing the landmarks which is outputs from the mediapipe hand tracking pipeline, it is possbile to work on gesture recongntion for either left or right hand, also both hands together. 
 
 
 Installation:  
